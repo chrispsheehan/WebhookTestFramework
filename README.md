@@ -14,3 +14,9 @@ Run php file locally
 ```bash
 php -S localhost:1234
 ```
+
+start ngrok
+
+```bash
+ngrok http 1234 
+```
